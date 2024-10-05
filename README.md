@@ -27,6 +27,7 @@ source venv/bin/activate  # For Unix/Linux
 Install the required packages:
 
 
+
 pip install -r requirements.txt
 Ensure you have the OpenVINO model files in the specified directory (models/ir_model/gpt2.xml).
 
@@ -57,3 +58,4 @@ UI/UX Design
 The design and user interface of the Interactive Chatbot were created using Figma. You can view the interactive prototype by following the link below:
 
 Figma Prototype: Interactive Chatbot Prototype
+https://www.figma.com/proto/fXC2kpwY2lG5KwDsygsQpD/Interactive-Chatbot-(Community)-(Copy)?node-id=11-73&node-type=canvas&t=EjaqT2glSWplVtIh-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A9&show-proto-sidebar=1
