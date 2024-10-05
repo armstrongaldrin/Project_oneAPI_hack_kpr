@@ -1,0 +1,5 @@
+openvino-dev
+transformers
+numpy
+streamlit
+opencv-python
