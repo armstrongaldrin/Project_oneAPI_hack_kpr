@@ -51,3 +51,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 For inquiries or feedback, feel free to reach out at: armstrongaldrin@karunya.edu.in
+
+
+UI/UX Design
+The design and user interface of the Interactive Chatbot were created using Figma. You can view the interactive prototype by following the link below:
+
+Figma Prototype: Interactive Chatbot Prototype
